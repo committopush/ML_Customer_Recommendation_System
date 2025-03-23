@@ -1,7 +1,2 @@
 # Ignore all .idea files
 .idea/
-
-# Except these files, if you want to share settings
-!.idea/misc.xml
-!.idea/modules.xml
-!.idea/*.iml
